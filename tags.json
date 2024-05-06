@@ -1,0 +1,15 @@
+{
+	"Advance Hyperparameter Tuning": "hyper parameters tuning ds data science deep machine learning model optuna grid search random cv",
+	"Advance Regression": "regression analysis machine learning data science deep model stats statsmodels",
+	"Classification using Tree Models": "classification tree models decision tree xgboost catboost cat xg ensamble",
+	"Clustering": "unsupervised learning clustering kmeans hierarchical clustering data science",
+	"EDA": "data science exploratory data analysis eda data visualization",
+	"Ensemble Learning": "ensamble learning data science machine tree boosting bagging",
+	"Git and GitHub": "git github devops dev ops ci cd linux command line",
+	"Hyperparameter Tuning": "hyper parameters tuning ds data science deep machine learning model optuna grid search random cv",
+	"Hypothesis Testing": "stats statitics hypothesis testing math data sciece",
+	"Model Selection": "model selection data science machine learning deep Validation cross",
+	"NLP": "nlp natural language processing data science deep model machine text analysis sentiment analysis",
+	"PCA": "pca principal component analysis data science deep machine learning model feature modeling reduction",
+	"Validation Strategies": "validation cross data science machine learning deep cross strategies"
+}
