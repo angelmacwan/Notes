@@ -1,4 +1,3 @@
-[[index]]
 Hypothesis testing is a fundamental method in statistics used to evaluate an assumption about a population based on evidence from a sample. It's a structured way to analyze data and determine if there's enough reason to believe something different is true about the bigger picture (population) than what we initially assumed.
 ## Types of Hypothesis Testing
 ### Z Test
